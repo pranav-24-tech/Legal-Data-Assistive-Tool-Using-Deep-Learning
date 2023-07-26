@@ -9,9 +9,13 @@ Generate concise &amp; accurate summaries of legal documents through abstractive
 
 # How to Use
 * Clone the repository to your local machine.
-* Install the required dependencies using requirements.txt.
+* Install the required dependencies/ libraries.
 * Follow the instructions provided in the project's documentation to run the tool.
-* Input legal documents and receive concise and informative summaries.
+
+# Pretrained models
+* DistilBart: sshleifer/distilbart-cnn-12-6
+* LED: allenai/led-large-16384
+* Legal Pegasus: nsi319/legal-pegasus
 
 # Contributions
 Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
